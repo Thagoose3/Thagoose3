@@ -1,4 +1,4 @@
-﻿# ðŸ¦† Hi there, I'm Thagoose3! âš¡
+﻿# 🪿 Hi there, I'm Thagoose3! ⚡
 
 <div align="center">
 
@@ -9,31 +9,40 @@
    `---'
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF66&center=true&vCenter=true&random=false&width=600&lines=Game+Developer+%26+Creative+Hacker;Creator+of+Goose+Survivor+%F0%9F%A6%86%F0%9F%92%A5;Full-Stack+Web+%26+Interactive+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF66&center=true&vCenter=true&random=false&width=600&lines=Game+Developer+%26+Creative+Builder;Creator+of+Goose+Survivor+%F0%9F%A6%86%F0%9F%92%A5;Explore+Thagoose+Ecosystem+%F0%9F%8C%90)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/Thagoose3?label=Followers&style=for-the-badge&logo=github&color=FF7700)](https://github.com/Thagoose3)
-[![GitHub Stars](https://img.shields.io/github/stars/Thagoose3?style=for-the-badge&logo=apachespark&color=FFE600)](https://github.com/Thagoose3)
+[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio-Thagoose_Ecosystem-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thagoose3.github.io/Profile-Domain/)
+[![3D Galaxy Map](https://img.shields.io/badge/🚀_Space_Map-Galaxy_Universe-0284C7?style=for-the-badge&logo=spacex&logoColor=white)](https://thagoose3.github.io/Profile-Domain/galaxy.html)
+[![GitHub Followers](https://img.shields.io/github/followers/Thagoose3?label=Followers&style=for-the-badge&logo=github&color=FF7700)](https://github.com/Thagoose3)
 
 </div>
 
 ---
 
-### ðŸš€ Featured Project: **[Goose Survivor: Bullet Hell ðŸ¦†ðŸ’¥](https://github.com/Thagoose3/goose-survivor)**
-> A fast-paced roguelite bullet hell web game where you waddle as a feisty goose, dodge bullet curtains with tight hitboxes, HONK to vaporize projectiles, lay golden egg mines, and siphon health with vampiric goose fangs!
+### 🌐 Portfolio & Ecosystem: **[Thagoose Daily Life Ecosystem](https://thagoose3.github.io/Profile-Domain/)**
+> Explore 7 live web apps & interactive tools featuring time focus, thesis research, finance, fitness, nutrition, and 2D canvas games!
 
-ðŸŽ® **[Play Goose Survivor Live](https://thagoose3.github.io/goose-survivor/)**
+| Project | Live Demo | Description |
+| :--- | :---: | :--- |
+| **🦆💥 Goose Survivor** | [Play Game ↗](https://thagoose3.github.io/goose-survivor/) | Action Roguelite Bullet Hell w/ Vampiric Life Steal & Mega Honk |
+| **🪿 GooseFocus** | [Open App ↗](https://thagoose3.github.io/GooseFocus/) | 2D Live Canvas Focus Farm & Ranking Leaderboard |
+| **⏳ TimeFlow Widget** | [Open App ↗](https://thagoose3.github.io/time-progress-widget) | Frosted glass real-time progress & time flow desktop companion |
+| **🎓 PaperVault** | [Open App ↗](https://thagoose3.github.io/thesis-workspace) | Academic research studio, PDF matrix synthesizer & citation vault |
+| **💰 Money Memo** | [Open App ↗](https://thagoose3.github.io/Money-memo) | Intelligent income & expense tracker with auto-analytics charts |
+| **🏋️ Exercise Tracker** | [Open App ↗](https://thagoose3.github.io/Exercise) | Workout routine planner, set counter & precision rest timer |
+| **🥗 Calories Tracker** | [Open App ↗](https://thagoose3.github.io/Calories_Tracker) | Nutrition, BMR/TDEE & macronutrient balance calculator |
 
 ---
 
-### ðŸ› ï¸ Tech Stack & Skills
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,python,git,github,vscode&perline=9" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,git,github,vscode&perline=9" alt="Skills" />
 </p>
 
 ---
 
-### ðŸ“Š GitHub Activity & Stats
+### 📊 GitHub Activity & Stats
 
 <div align="center">
 
@@ -49,6 +58,5 @@
 ---
 
 <div align="center">
-  <sub>â­ Feel free to star my repositories if you find them fun or useful! ðŸ¦†âš¡</sub>
+  <sub>⭐ Feel free to star my repositories if you find them fun or useful! 🪿⚡</sub>
 </div>
-
