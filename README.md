@@ -1,4 +1,4 @@
-﻿# 🪿 Hi there, I'm Thagoose3! ⚡
+# 🪿 Hi there, I'm Thagoose3! ⚡
 
 <div align="center">
 
@@ -9,7 +9,7 @@
    `---'
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF66&center=true&vCenter=true&random=false&width=600&lines=Game+Developer+%26+Creative+Builder;Creator+of+Goose+Survivor+%F0%9F%A6%86%F0%9F%92%A5;Explore+Thagoose+Ecosystem+%F0%9F%8C%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF66&center=true&vCenter=true&random=false&width=650&lines=Game+Developer+%26+Creative+Builder;Creator+of+Goose+Survivor+%F0%9F%A6%86%F0%9F%92%A5;MorningPulse+AI+%26+Intelligence+%E2%98%95%E2%9A%A1;Explore+Thagoose+Ecosystem+%F0%9F%8C%90)](https://git.io/typing-svg)
 
 [![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio-Thagoose_Ecosystem-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thagoose3.github.io/Profile-Domain/)
 [![3D Galaxy Map](https://img.shields.io/badge/🚀_Space_Map-Galaxy_Universe-0284C7?style=for-the-badge&logo=spacex&logoColor=white)](https://thagoose3.github.io/Profile-Domain/galaxy.html)
@@ -20,10 +20,11 @@
 ---
 
 ### 🌐 Portfolio & Ecosystem: **[Thagoose Daily Life Ecosystem](https://thagoose3.github.io/Profile-Domain/)**
-> Explore 7 live web apps & interactive tools featuring time focus, thesis research, finance, fitness, nutrition, and 2D canvas games!
+> Explore 8 live web apps & interactive tools featuring time focus, thesis research, finance, AI morning intelligence, fitness, nutrition, and 2D canvas games!
 
 | Project | Live Demo | Description |
 | :--- | :---: | :--- |
+| **🍵⚡ MorningPulse AI** | [Open App ↗](https://thagoose3.github.io/morning-pulse-ai/) | AI Morning Intelligence & Stock Dashboard (Tea Time Edition) |
 | **🦆💥 Goose Survivor** | [Play Game ↗](https://thagoose3.github.io/goose-survivor/) | Action Roguelite Bullet Hell w/ Vampiric Life Steal & Mega Honk |
 | **🪿 GooseFocus** | [Open App ↗](https://thagoose3.github.io/GooseFocus/) | 2D Live Canvas Focus Farm & Ranking Leaderboard |
 | **⏳ TimeFlow Widget** | [Open App ↗](https://thagoose3.github.io/time-progress-widget) | Frosted glass real-time progress & time flow desktop companion |
@@ -37,7 +38,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,git,github,vscode&perline=9" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,python,nodejs,firebase,git,github,vscode&perline=12" alt="Skills" />
 </p>
 
 ---
@@ -60,12 +61,6 @@
 <div align="center">
   <sub>⭐ Feel free to star my repositories if you find them fun or useful! 🪿⚡</sub>
 </div>
-
----
-
----
-
----
 
 ---
 
