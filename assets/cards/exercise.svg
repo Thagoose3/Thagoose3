@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="250" viewBox="0 0 580 250" role="img" aria-label="Exercise Tracker: Workout routines, sets and rest timers">
+<defs>
+  <radialGradient id="g" cx=".82" cy=".25" r=".75"><stop offset="0" stop-color="#f472b6" stop-opacity=".55"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g2" cx="0" cy="1.1" r=".7"><stop offset="0" stop-color="#5ee6ff" stop-opacity=".16"/><stop offset="1" stop-color="#5ee6ff" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f472b6" stop-opacity=".9"/><stop offset=".5" stop-color="#fff" stop-opacity=".08"/><stop offset="1" stop-color="#f472b6" stop-opacity=".5"/></linearGradient>
+  <clipPath id="c"><rect width="580" height="250" rx="18"/></clipPath>
+</defs>
+<style>
+  .glow { animation: br 5s ease-in-out infinite; transform-origin: 470px 70px; }
+  @keyframes br { 50% { transform: scale(1.15); opacity: .7; } }
+  .fl { animation: fl 4.5s ease-in-out infinite; }
+  @keyframes fl { 50% { transform: translateY(-8px) rotate(-4deg); } }
+  .fl { transform-box: fill-box; transform-origin: center; }
+  .p { animation: tw 3s ease-in-out infinite alternate; }
+  @keyframes tw { to { opacity: .1; } }
+  .ring { animation: spin 18s linear infinite; transform-origin: 470px 100px; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+</style>
+<g clip-path="url(#c)">
+  <rect width="580" height="250" fill="#0e1219"/>
+  <rect width="580" height="250" fill="url(#grid)"/>
+  <rect class="glow" width="580" height="250" fill="url(#g)"/>
+  <rect width="580" height="250" fill="url(#g2)"/>
+  <circle cx="420" cy="27" r="1.4" fill="#f472b6" class="p" style="animation-delay:-1.4s"/><circle cx="396" cy="53" r="0.7" fill="#f472b6" class="p" style="animation-delay:-0.3s"/><circle cx="367" cy="188" r="0.8" fill="#f472b6" class="p" style="animation-delay:-4.0s"/><circle cx="434" cy="39" r="1.0" fill="#f472b6" class="p" style="animation-delay:-0.6s"/><circle cx="485" cy="178" r="0.8" fill="#f472b6" class="p" style="animation-delay:-2.4s"/><circle cx="468" cy="54" r="1.0" fill="#f472b6" class="p" style="animation-delay:-2.9s"/><circle cx="379" cy="221" r="1.5" fill="#f472b6" class="p" style="animation-delay:-3.4s"/><circle cx="423" cy="46" r="1.4" fill="#f472b6" class="p" style="animation-delay:-3.7s"/><circle cx="388" cy="52" r="1.0" fill="#f472b6" class="p" style="animation-delay:-1.9s"/><circle cx="356" cy="130" r="1.5" fill="#f472b6" class="p" style="animation-delay:-2.0s"/><circle cx="436" cy="93" r="1.1" fill="#f472b6" class="p" style="animation-delay:-1.0s"/><circle cx="432" cy="98" r="1.1" fill="#f472b6" class="p" style="animation-delay:-0.3s"/><circle cx="509" cy="147" r="0.7" fill="#f472b6" class="p" style="animation-delay:-3.4s"/><circle cx="433" cy="38" r="0.9" fill="#f472b6" class="p" style="animation-delay:-1.9s"/>
+  <text x="560" y="236" text-anchor="end" font-family="'Arial Black', 'Segoe UI Black', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="120" fill="none" stroke="#f472b6" stroke-opacity=".28" stroke-width="1.2">08</text>
+  <circle class="ring" cx="470" cy="100" r="62" fill="none" stroke="#f472b6" stroke-opacity=".45" stroke-dasharray="4 9"/>
+  <circle cx="470" cy="100" r="48" fill="#000" fill-opacity=".28" stroke="#fff" stroke-opacity=".12"/>
+  <text class="fl" x="470" y="118" text-anchor="middle" font-size="50">🏋️</text>
+  <text x="28" y="44" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="12" letter-spacing="2.5" fill="#f472b6">08 / LIVE</text>
+  <text x="28" y="88" font-family="'Arial Black', 'Segoe UI Black', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="30" fill="#eef1f5">EXERCISE TRACKER</text>
+  <text x="28" y="128" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#eef1f5" opacity=".72">Workout routines, sets and rest timers</text>
+  <rect x="28" y="190" width="38" height="26" rx="13" fill="none" stroke="#eef1f5" stroke-opacity=".16"/><text x="47" y="207" text-anchor="middle" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="11.5" fill="#7d8696">PWA</text><rect x="74" y="190" width="75" height="26" rx="13" fill="none" stroke="#eef1f5" stroke-opacity=".16"/><text x="112" y="207" text-anchor="middle" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="11.5" fill="#7d8696">Routines</text>
+  <text x="552" y="44" text-anchor="end" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="12" letter-spacing="2" fill="#eef1f5" opacity=".8">OPEN ↗</text>
+</g>
+<rect x="1" y="1" width="578" height="248" rx="17" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+</svg>

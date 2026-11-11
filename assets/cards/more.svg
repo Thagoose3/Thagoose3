@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="250" viewBox="0 0 580 250" role="img" aria-label="See everything on the portfolio">
+<style>
+  .a { animation: a 1.6s ease-in-out infinite; }
+  @keyframes a { 50% { transform: translateX(10px); } }
+  .dash { animation: m 20s linear infinite; }
+  @keyframes m { to { stroke-dashoffset: -400; } }
+</style>
+<rect x="1" y="1" width="578" height="248" rx="17" fill="#07090d" />
+<rect class="dash" x="1" y="1" width="578" height="248" rx="17" fill="none" stroke="#ff6a1a" stroke-opacity=".6" stroke-dasharray="8 10" />
+<text x="28" y="44" font-family="Consolas, 'SFMono-Regular', Menlo, 'Courier New', monospace" font-size="12" letter-spacing="2.5" fill="#7d8696">+ MORE</text>
+<text x="28" y="120" font-family="'Arial Black', 'Segoe UI Black', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="34" fill="#eef1f5">THE FULL</text>
+<text x="28" y="160" font-family="'Arial Black', 'Segoe UI Black', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="34" fill="#ff6a1a">PORTFOLIO</text>
+<text x="28" y="205" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15.5" fill="#eef1f5" opacity=".7">WebGL, scroll effects &amp; every project in one place</text>
+<text class="a" x="540" y="160" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="44" fill="#ff6a1a">→</text>
+</svg>
