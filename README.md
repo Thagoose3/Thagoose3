@@ -15,6 +15,8 @@
 <p align="center">
   <a href="https://thagoose3.github.io/morning-pulse-ai/"><img src="assets/cards/morning-pulse-ai.svg" alt="MorningPulse AI" width="49%" /></a>
   <a href="https://thagoose3.github.io/goose-survivor/"><img src="assets/cards/goose-survivor.svg" alt="Goose Survivor" width="49%" /></a>
+  <a href="https://github.com/Thagoose3/KopKnob"><img src="assets/cards/kopknob.svg" alt="KopKnob — Windows notch toolbox" width="49%" /></a>
+  <a href="https://github.com/Thagoose3/MEMONOTE"><img src="assets/cards/memonote.svg" alt="MEMONOTE — notes with images and boards" width="49%" /></a>
   <a href="https://thagoose3.github.io/AI-Office/"><img src="assets/cards/ai-office.svg" alt="AI Office" width="49%" /></a>
   <a href="https://thagoose3.github.io/GooseFocus/"><img src="assets/cards/goosefocus.svg" alt="GooseFocus" width="49%" /></a>
   <a href="https://thagoose3.github.io/time-progress-widget/"><img src="assets/cards/timeflow.svg" alt="TimeFlow Widget" width="49%" /></a>
@@ -30,7 +32,7 @@
 <img src="assets/header-stack.svg" alt="02 — Toolbox" width="100%" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,astro,tailwind,vite,html,css,nodejs,python,firebase,git,github,githubactions,vscode&perline=15&theme=dark" alt="TypeScript, JavaScript, React, Astro, Tailwind, Vite, HTML, CSS, Node.js, Python, Firebase, Git, GitHub, GitHub Actions, VS Code" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,astro,tailwind,vite,html,css,nodejs,electron,cs,dotnet,python,firebase,git,github,githubactions,vscode&perline=9&theme=dark" alt="TypeScript, JavaScript, React, Astro, Tailwind, Vite, HTML, CSS, Node.js, Electron, C#, .NET, Python, Firebase, Git, GitHub, GitHub Actions, VS Code" />
 </p>
 <p align="center"><sub>Canvas 2D · WebGL · Web Audio · IndexedDB · PWA · REST APIs · AI agents</sub></p>
 

@@ -182,6 +182,8 @@ def header(slug, num, title, sub):
 PROJECTS = [
     ("morning-pulse-ai", "MorningPulse AI", "🍵", "#22d3ee", "AI morning market & news briefing, rebuilt daily by GitHub Actions", ["React", "TypeScript", "Actions"], "LIVE"),
     ("goose-survivor", "Goose Survivor", "🦆", "#f87171", "Roguelite bullet-hell: dodge, feather-fire, egg bombs, Mega Honk", ["Canvas 2D", "Web Audio"], "PLAY"),
+    ("kopknob", "KopKnob", "🎛️", "#e879f9", "A tiny Windows notch: Pomodoro, media, clipboard, Thai OCR, QR", ["C# .NET 8", "WPF"], "WINDOWS"),
+    ("memonote", "MEMONOTE", "📝", "#2dd4bf", "Notes with pasted images & code, [[links]] and a board mode", ["Electron", "React"], "WINDOWS"),
     ("ai-office", "AI Office", "🏢", "#a3e635", "Pixel office that shows what your AI agent team is doing, live", ["Pixel art", "Node", "Agents"], "DEMO"),
     ("goosefocus", "GooseFocus", "🪿", "#ff6a1a", "Focus timer where your goose farm grows with every hour", ["Canvas 2D", "Leaderboard"], "LIVE"),
     ("timeflow", "TimeFlow Widget", "⏳", "#818cf8", "How much of the year, month, week and day is already gone", ["Python", "Widget"], "LIVE"),
@@ -254,7 +256,7 @@ def card(i, slug, title, icon, accent, desc, tags, cta):
   <text x="28" y="88" font-family="{DISPLAY}" font-weight="900" font-size="30" fill="{INK}">{E(title.upper())}</text>
   {desc_svg}
   {"".join(chips)}
-  <text x="{W - 28}" y="44" text-anchor="end" font-family="{MONO}" font-size="12" letter-spacing="2" fill="{INK}" opacity=".8">OPEN ↗</text>
+  <text x="{W - 28}" y="44" text-anchor="end" font-family="{MONO}" font-size="12" letter-spacing="2" fill="{INK}" opacity=".8">{"CODE ↗" if cta == "WINDOWS" else "OPEN ↗"}</text>
 </g>
 <rect x="1" y="1" width="{W - 2}" height="{H - 2}" rx="17" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
 </svg>'''
@@ -308,7 +310,7 @@ def more():
 
 hero()
 more()
-header("work", "01", "Selected work", "9 apps · all live in your browser")
+header("work", "01", "Selected work", "11 projects · web, games & windows apps")
 header("stack", "02", "Toolbox", "what I build with")
 header("activity", "03", "Activity", "the goose eats my contributions")
 header("support", "04", "Support", "buy the goose a coffee")
