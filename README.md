@@ -15,7 +15,8 @@
 <p align="center">
   <a href="https://thagoose3.github.io/morning-pulse-ai/"><img src="assets/cards/morning-pulse-ai.svg" alt="MorningPulse AI" width="49%" /></a>
   <a href="https://thagoose3.github.io/goose-survivor/"><img src="assets/cards/goose-survivor.svg" alt="Goose Survivor" width="49%" /></a>
-  <a href="https://github.com/Thagoose3/KopKnob"><img src="assets/cards/kopknob.svg" alt="KopKnob — Windows notch toolbox" width="49%" /></a>
+  <a href="https://github.com/Thagoose3/SpecVS"><img src="assets/cards/specvs.svg" alt="SpecVS — laptop and chip spec comparison" width="49%" /></a>
+  <a href="https://github.com/Thagoose3/KopKnob"><img src="assets/cards/kopknob.svg" alt="KopKnob — Dynamic Island for Windows" width="49%" /></a>
   <a href="https://github.com/Thagoose3/MEMONOTE"><img src="assets/cards/memonote.svg" alt="MEMONOTE — notes with images and boards" width="49%" /></a>
   <a href="https://thagoose3.github.io/AI-Office/"><img src="assets/cards/ai-office.svg" alt="AI Office" width="49%" /></a>
   <a href="https://thagoose3.github.io/GooseFocus/"><img src="assets/cards/goosefocus.svg" alt="GooseFocus" width="49%" /></a>
@@ -24,7 +25,6 @@
   <a href="https://thagoose3.github.io/Money-memo/"><img src="assets/cards/money-memo.svg" alt="Money Memo" width="49%" /></a>
   <a href="https://thagoose3.github.io/Exercise/"><img src="assets/cards/exercise.svg" alt="Exercise Tracker" width="49%" /></a>
   <a href="https://thagoose3.github.io/Calories_Tracker/"><img src="assets/cards/calories.svg" alt="Calories Tracker" width="49%" /></a>
-  <a href="https://thagoose3.github.io/Profile-Domain/#work"><img src="assets/cards/more.svg" alt="See everything on the portfolio" width="49%" /></a>
 </p>
 
 <br />
